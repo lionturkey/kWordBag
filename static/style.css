@@ -1,0 +1,32 @@
+/* #ko-text {
+    height: 50%;
+    width: 25%;
+} */
+body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.new {
+    background-color: rgb(127, 255, 0);
+}
+
+.fuzzy {
+    background-color: rgba(128, 255, 0, 0.66);
+}
+
+.learning {
+    background-color: rgba(128, 255, 0, 0.33)
+}
+
+.particle {
+    background-color: rgba(0, 255, 255, 0.897);
+}
